@@ -1,0 +1,36 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "",
+    "name": "Mesa de crafteo chetada",
+    "uuid": "bf4e6604-de44-3ad1-865d-fa87146ba71d",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "resources",
+      "uuid": "460756e8-23e3-3743-8098-5a0ee0c6fa35",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "NICOLÁSRODRÍGUEZÁLVA, MCreator"
+    ],
+    "url": "https://mcreator.net"
+  }
+}

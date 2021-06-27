@@ -1,0 +1,34 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "mesa_de_crafteo_chetada:espada_netherita"
+    },
+    "groups": [
+      "bebe"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "0",
+      "1",
+      "2"
+    ],
+    "key": {
+      "0": {
+        "item": "minecraft:coal"
+      },
+      "1": {
+        "item": "minecraft:coal"
+      },
+      "2": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "minecraft:netherite_sword",
+      "count": 1
+    }
+  }
+}

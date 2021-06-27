@@ -1,0 +1,59 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Piconetherita",
+      "type": "recipe",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "piconetherita"
+    },
+    {
+      "name": "EspadaNetherita",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "espada_netherita"
+    },
+    {
+      "name": "Enchant",
+      "type": "function",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enchant"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "mesa_de_crafteo_chetada",
+    "modName": "Mesa de crafteo chetada",
+    "version": "1.0.0",
+    "author": "NICOLÁSRODRÍGUEZÁLVA, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "addon-1.16.x",
+    "modElementsPackage": "net.mcreator.mesadecrafteochetada",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

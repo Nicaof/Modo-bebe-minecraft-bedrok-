@@ -1,0 +1,9 @@
+{
+  "_fv": 18,
+  "_type": "function",
+  "definition": {
+    "code": "/enchant @a mending\n/enchant @a unbreaking 3\n/enchant @a fire aspect\n/enchant @a ",
+    "name": "enchant",
+    "namespace": "mod"
+  }
+}
