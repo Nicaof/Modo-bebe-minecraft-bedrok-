@@ -86,10 +86,10 @@
   "workspaceSettings": {
     "modid": "mesa_de_crafteo_chetada",
     "modName": "Mesa de crafteo chetada",
-    "version": "1.0.0",
+    "version": "2.0",
     "author": "NICOLÁSRODRÍGUEZÁLVA, MCreator",
     "websiteURL": "https://mcreator.net",
-    "license": "Academic Free License v3.0",
+    "license": "All Rights Reserved",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "requiredMods": [],
@@ -97,6 +97,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "addon-1.16.x",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.mesadecrafteochetada",
     "lockBaseModFiles": false
   },

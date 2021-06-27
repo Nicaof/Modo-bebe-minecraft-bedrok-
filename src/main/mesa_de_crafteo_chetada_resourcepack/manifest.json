@@ -5,7 +5,7 @@
     "name": "Mesa de crafteo chetada",
     "uuid": "bf4e6604-de44-3ad1-865d-fa87146ba71d",
     "version": [
-      1,
+      2,
       0,
       0
     ],
@@ -21,7 +21,7 @@
       "type": "resources",
       "uuid": "460756e8-23e3-3743-8098-5a0ee0c6fa35",
       "version": [
-        1,
+        2,
         0,
         0
       ]
