@@ -2,7 +2,7 @@
   "_fv": 18,
   "_type": "function",
   "definition": {
-    "code": "/enchant @a mending\n/enchant @a unbreaking 3\n/enchant @a fire aspect\n/enchant @a ",
+    "code": "/gamemode survival\n/enchant @a unbreaking 3\n/enchant @a fire aspect\n/enchant @a protection 5\n/effect @a strength 9999999 6 true\n/enchant @a mending\n/enchant @a smite\n/enchant @a fire_protection 2\n/enchant @a efficiency 5\n/enchant @a fortune 5\n/enchant @a feather_falling\n/enchant @a knockback 2\n/enchant @a looting 2\n/enchant @a power 5\n/enchant @a punch \n/enchant @a thorns 5\n/enchant @a flame\n/effect @a regeneration 999999 1 true",
     "name": "enchant",
     "namespace": "mod"
   }
