@@ -1,0 +1,39 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "mesa_de_crafteo_chetada:casco"
+    },
+    "groups": [
+      "bebe"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "012",
+      "3 5"
+    ],
+    "key": {
+      "0": {
+        "item": "minecraft:coal"
+      },
+      "1": {
+        "item": "minecraft:coal"
+      },
+      "2": {
+        "item": "minecraft:coal"
+      },
+      "3": {
+        "item": "minecraft:coal"
+      },
+      "5": {
+        "item": "minecraft:coal"
+      }
+    },
+    "result": {
+      "item": "minecraft:netherite_helmet",
+      "count": 1
+    }
+  }
+}

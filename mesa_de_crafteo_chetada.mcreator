@@ -27,6 +27,51 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "enchant"
+    },
+    {
+      "name": "AchaNetherita",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "acha_netherita"
+    },
+    {
+      "name": "Casco",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "casco"
+    },
+    {
+      "name": "Peto",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "peto"
+    },
+    {
+      "name": "Pantalon",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pantalon"
+    },
+    {
+      "name": "Botas",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "botas"
     }
   ],
   "variable_elements": [],
